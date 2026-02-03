@@ -1,6 +1,6 @@
 # 说明
 
-这是使用 [Happy Marriage Skills](../skills/README.md) 进行婚姻关系分析的一些回答示例。这些示例展示了如何运用戈特曼博士的婚姻研究理论，对常见的婚姻观点、案例和问题进行深度分析。
+这是使用 [Happy Marriage Skills](https://github.com/happy-marriage/skills) 进行婚姻关系分析的一些回答示例。这些示例展示了如何运用戈特曼博士的婚姻研究理论，对常见的婚姻观点、案例和问题进行深度分析。
 
 ## 📚 示例分类
 
